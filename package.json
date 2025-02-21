@@ -1,14 +1,14 @@
 {
   "name": "dashboard",
   "private": true,
-  "homepage": "https://YousefAlMughari-cs.github.io/dashboard-react",
+  "homepage": "https://yousefalmughari-cs.github.io/dashboard-react/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "lint": "eslint .",
     "preview": "vite preview"
   },
