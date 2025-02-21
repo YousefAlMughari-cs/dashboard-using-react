@@ -1,7 +1,7 @@
 {
   "name": "dashboard",
   "private": true,
-  "homepage": "https://github.com/YousefAlMughari-cs/dashboard.git",
+  "homepage": "https://github.com/YousefAlMughari-cs/dashboard",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
