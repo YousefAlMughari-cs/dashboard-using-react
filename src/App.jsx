@@ -1,4 +1,5 @@
-import "./App.css";
+import "../src/App.css";
+
 import Slidebar from "./layout/Sidebar/Sidebar";
 import Content from "./layout/Content/Content";
 function App() {
